@@ -13,6 +13,8 @@ Vue+node 实现微信小程序开发，包含登录、注册、购物、订单�
 # Use
 ## 运行两个项目开始时:
 
-'''javasricpt
-  npm install or npm i 
-'''
+  1.npm install or npm i
+  2.cnpm install or cnpm i 
+
+  
+
