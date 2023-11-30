@@ -7,6 +7,7 @@ Vue+node 实现微信小程序开发，包含登录、注册、购物、订单�
 
 # About
  goferS  服务端，电脑上面必须要安装Node.
+ 
  goferT  前端，显示给用户的界面.
 
 # Use
